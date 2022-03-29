@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image:url(IMAGES/music.webp)
+}
+.banner{
+    width: 40px;
+    height: 40px;
+}
+.right-box{
+     flex-basis: 80%;
+     background-position: top;
+}
+.logo{
+    width: 150px;
+    margin: 100px 0;
+}
+.wrapper{
+    width: 90%;
+    margin: auto;
+}
+nav{
+    margin-top: -3%;
+    margin-right: 60px;
+    float: right;
+
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+.MY-IMG{
+    width: 200px;
+}
